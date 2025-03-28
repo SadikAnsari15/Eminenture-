@@ -1,0 +1,336 @@
+0,1,2,3,4,5,6,7,8
+Table 1: Oxygen saturation and pH throughout,,the test,,,,,,
+,,,Oxygen saturation,,,,,
+,,,,,,,PH,
+Sample name,,Oh,,,48 h,,,
+,mg/L,,%,mg/L,,%,Oh,48 h
+Control,8.5,,99,8.3,,98,8.09,8.36
+1.25 mg/L,8.4,,98,8.3,,98,8.05,8.36
+2.5 mg/L,8.5,,99,8.3,,98,8.04,8.35
+5 mg/L,8.4,,98,8.2,,97,8.00,8.33
+10 mg/L,8.5,,99,8.3,,98,7.93,8.23
+20 mg /L,8.4,,98,8.3,,98,7.73,8.20
+Table 2: Measured concentrations of the test,item 3-Phenoxybenzoic acid,,,,,,,
+Nominal concentration,Measured 3-Phenoxybenzoic acid,,,,,,,
+,"Oh
+48 h",,,,,,,
+Cone.,"recovery
+Cone.",recovery,,,,,,
+"controll
+n.d",n.d.,,,,,,,
+"1.19 mg/L
+1.25 mg/L","95.4 %
+1.39 mg/L",111 %,,,,,,
+"2.42 mg/L
+2.5 mg/L","96.8 %
+2.69 mg/L",107%,,,,,,
+"5.0 mg/L
+4.81 mg/L","96.2 %
+5.25 mg/L",105%,,,,,,
+*,*,,,,,,,
+10.0 mg/L,10.57 mg/L,106%,,,,,,
+"18.86 mg/L
+20.0 mg/L","21.49 mg/L
+94.3 %",108%,,,,,,
+"Item:
+3-Phenoxybenzoic acid",,,,,,,,
+"GLP-Code:
+FEI-017/4-20",,,,,,,,
+"8.2
+Immobilization of Daphnia magna",,,,,,,,
+"The effect
+(acute immobilization) of the test",item on Daphnia magna was tested using,,,,,,,
+"five concentrations
+spaced
+by
+a factor of","2. The nominal
+test",item concentrations,,,,,,
+were:,,,,,,,,
+"20.0, 10.0, 5.0, 2.5 and 1.25 mg test
+item/L",,,,,,,,
+The test,item did not cause any significant effects on mobility of,"the daphnids at
+the",,,,,,
+tested concentrations during the test period of 48 h (Table 3).,,,,,,,,
+List of SOPs that were used in the studv,,,,,,,,
+The Generalia-SOPs as well as the following SOPs were used:,,,,,,,,
+SOP No.,Title (translated),,,,,,,
+0-017/02,Com puter use,,,,,,,
+V4 - 502/02,"Daphnia test, acute tox., Repro-test, D.-holding and breeding",,,,,,,
+V4 - 503/02,"Daphnia test, acute tox., Repro-test, prep, of
+test solutions",,,,,,,
+V4 - 505/02,"Daphnia test, aquat.
+tox., dilution water",,,,,,,
+V4 - 507/02,"Daphnia test, holding conditions",,,,,,,
+V4 - 509/02,"Daphnia test, acute immobilization, procedure",,,,,,,
+Item:,3-Phenoxybenzoic acid,,,,,,,
+GLP-Code:,FEI-017/4-20,,,,,,,
+G3 - 004/02,"Scales, Calibration",,,,,,,
+G3 - 005/03,Checking of volumetric apparatus,,,,,,,
+G3 - 006/03,Checking of piston-operated pipettes,,,,,,,
+G3 - 007/02,Checking of thermometers,,,,,,,
+G3 - 008/03,Checking of coolers and freezers,,,,,,,
+G4 - 007/02,"Illuminance Meter, Minolta, operation",,,,,,,
+G4 - 302/02,"Aquatic Microcosms, Measurement of oxygen",,,,,,,
+G4 - 303/02,"WTW pH-Meter pH 196, operation, calibration",,,,,,,
+G7 - 025/02,"Rotavapor, use",,,,,,,
+G7-183/02,"Washing machine Miele with Aquapurificator, handling",,,,,,,
+G3-009/02,Shaking machine,,,,,,,
+G7-189/01,HPLC gradient pump P 680LPG,,,,,,,
+G7-241/03,"HPLC Diodearraydetector UVD-320S, 340S and 340U",,,,,,,
+G7-247/02,"HPLC autosampler ASI 100, use",,,,,,,
+"13.1
+Materials and instruments",,,,,,,,
+HPLC conditions:,,,,,,,,
+"Dionex P580LPG
+HPLC pump:",,,,,,,,
+"Dionex ASI-100
+Injector",,,,,,,,
+"Detector
+UVD 340S",,,,,,,,
+"Dionex Chromeleon Vers. 6.30
+Software",,,,,,,,
+"Injection volume
+25 Ml, 100 pl",,,,,,,,
+"40°C
+Column temperature",,,,,,,,
+"ODS Hypersil, 150x2.0 mm, 5 Mm, with
+Column",,,,,,,,
+Precolumn,,,,,,,,
+"Wavelength
+244 nm",,,,,,,,
+"0.1 % aqueous formic acid
+Eluent A:",,,,,,,,
+"acetonitrile
+Eluent B:",,,,,,,,
+,,,,,I,,,
+,,,,Fraunhofer Institut,,,,
+,,,,,,Molekularbiologie und,,
+,,,,,,Angewandte Oekologie,,
+Study report:,,,,"Daphnia, Acute Immobilization Test",,,page 19/24,
+"Test
+Item:",,,,3-Phenoxybenzoic acid,,,,
+GLP-Code:,,,FEI-017/4-20,,,,,
+,Plots of calibration curves,,,,,,,
+,,,0.05 mq/L,,,,uv vis 1,
+10.0- Kalibrierung. 23-06-06 m,,,,,,,,
+MX),,,,,,,VWL:244nrTi,
+,,,,,"1-3 PhenaKvtiertzoesaure - 4,117",,,
+0.0-,,,,,,,,
+-10.CH,,,,,,,,
+-20.CH,,,,,,,,
+-30.0-1,,,,,,,,
+"-40,0-",,,,,,,,
+"0,00","1,00",zoo,"3,00",4.00,"5,00",,"7,00",
+,Figure 1: Calibration solution 0.05 mg/L,,,,,,,
+"SOO
+Kalibrierung",23-06-06#13,,"5,0 nng/L",,,,UV VIS 1,
+JiV\U,,,,,,,VWU244nrri,
+,,,,1,"- 3 Phenoaybenzoesaure - 3,946",,,
+25.CM,,,,,,,,
+12.H,,,,,,,,
+"0,0-",,,,,,,,
+-20.0-,,,,,,,,
+"0,00",,"2,00",3.00,4.00,"5,00",6.00,7.00,
+,Figure 2: Calibration solution 5.0 mg/L,,,,,,,
+,,Fraunhofer Institut,,,,,,
+,,,,,,,,Molekularbiologie und
+,,,,,,,,Angewandte Oekologie
+Study report:,,"Daphnia, Acute Immobilization Test",,,,,,page 20/24
+Test Item:,3-Phenoxybenzoic acid,,,,,,,
+GLP-Code:,FEI-017/4-20,,,,,,,
+,Representative chromatograms of the 3-Phenoxybenzoic acid analysis,,,,,,,
+FB-017 4-20 #3,Oh Kontrolle,,,,,,,UV_VIS_1
+-io.<H,,,,,,,,
+-35.0-,,,,,,,,
+,,I,',',',',I,
+"0.00
+0,50
+1.00","1,50
+2,00
+250
+3,00","3,50",,,,,"4,50
+4,00",5.30
+"Figure 3: Control, start of test",,,,,,,,
+,Oh Konz. 3,,,,,,,UV VIS 1
+"0,00
+0.50
+1.00","1,50
+iOO
+250
+3.00",,"3,50",,,,"4,00","5.30
+4,50"
+"Figure 4: Test concentration 5 mg/L, start of test",,,,,,,,
+,,Boon,,,,,,
+,,",®-ma",,,,,,
+,,□Q!,,,,,,
+,,Fraunhofer,,,,,,
+,,Institut,,,,,,
+,,,Molekularbiologie und,,,,,
+,,,Angewandte Oekologie,,,,,
+Study report:,,"Daphnia, Acute Immobilization Test",,page 21/24 -,,,,
+Test Item:,3-Phenoxybenzoic acid,,,,,,,
+GLP-Code:,FEI-017/4-20,,,,,,,
+"2Q0
+FB-017 4-20#12[moce(iedbyludemannl","48h Konz.
+1",,,"UV.VIS.
+1",,,,
+,,,,VvVL.-244nrr,,,,
+,,,"1-3 Phenoxybenzoesaure- 4,058",,,,,
+10.0-4,,,,,,,,
+-10.CH,,,,,,,,
+"■20,0-A",,,,,,,,
+-35.0-,,,,,,,,
+,"11
+I
+'",,,,,,,
+"0,50
+1.00
+0,00","200
+250
+3.00","4,00","4,50","5,30",,,,
+"Figure 5: Test concentration 1.25 mg/L, end of test",,,,,,,,
+,"'-':./.';
+'"" .■V' .,-r.i'
+_.-
+'yy
+:-■(.
+-.y ♦
+Favorite Pf",,,,,,,
+,"v ■-;•
+•■.■■.'■■ ■fy.yy -_•
+-'-*""-<",,,,,,,
+,"Welcome Miriana Daniel!
+| Not You? | Login | Your Profile | Order Center | Sea",,,,,,,
+,FT,,,,,,,
+Sv,,,,,,,,
+,FT,,,,,,,
+,FT,,,,,,,
+SIGMA-:AL!DRICH,,,,,,,,
+,Cer tif icateo: Analysis,,,,,,,
+,Sp,,,,,,,
+,Ce,,,,,,,
+,"3-Phenoxybenzoic acid,",,,,,,,
+Product Name,Ie,,,,,,,
+,98%,,,,,,,
+Product Number,"Mt
+190276",,,,,,,
+Product Brand,Aldrich,,,,,,,
+CAS Number,3739-38-6,,,,,,,
+,Pi,,,,,,,
+Molecular. Formula,CAOCjH.CO^,,,,,,,
+Molecular Weight,214.22,,,,,,,
+,Pri,,,,,,,
+,Bu,,,,,,,
+TEST,"SPECIFICATION
+LOT07121EY RESULTS",,,,,,,
+,"As
+WHrrE POWDER OR FIBERS",,,,,,,
+APPEARANCE,SHINY WHITE FIBERS,,,,,,,
+,AND/OR LUMPS,,,,,,,
+,En,,,,,,,
+MELTING POINT,148-149 DEGREES CELSIUS,,,,,,,
+,"CONFORMS TO STRUCTURE AND
+CONFORMS TO STRUCTURE AND",,,,,,,
+INFRARED SPECTRUM,Stai,,,,,,,
+,"STANDARD AS
+STANDARD AS",,,,,,,
+,"ILLUSTRATED ON PAGE 237D OF
+ILLUSTRATED ON PAGE 237D OF
+r",,,,,,,
+,"EDITION I,
+EomoN I,",,,,,,,
+,[Prt,,,,,,,
+,"VOt UME 2 OF ""THE ALDRICH
+VOLUME 2 OF ""THE ALDRICH",,,,,,,
+,"Adv
+LIBRARY OF FT-IR
+LIBRARY OF FT-IR",,,,,,,
+,"SPECTRA-.
+SPECTRA'.
+Sea",,,,,,,
+TITRATION,"97.5% - 102.5% (WITH NAOH)
+100.3 % (WITH NAOH)",,,,,,,
+GAS LIQUID,"97.5% (MINIMUM)
+99.9%
+Las",,,,,,,
+CHROMATOGRAPHY,IE,,,,,,,
+,LJUinnnD,,,,,,,
+,-imannn,,,,,,,
+,-JLilaDDn,,,,,,,
+,sin,,,,,,,
+,Fraunhofer,,,,,,,
+,Institut,,,,,,,
+,,Molekularbiologie und,,,,,,
+,,Angewandte Oekologie,,,,,,
+Study report:,"Daphnia, Acute Immobilization Test",page 23/24,,,,,,
+Test Item:,3-Phenoxybenzoic acid,,,,,,,
+GLP-Code:,FEI-017/4-20,,,,,,,
+"15.
+Annex 3:",GLP-Certificate (2 pages),,,,,,,
+,"fiir Umwelt, Raumordnung und Landwirtschaft",,,,,,,
+,des Landes Nordrhein-Westfalen,,,,,,,
+,"Aklcnaichtn: VI-3- 31.11.79.05
+Postanschrifl: 40190 Dasseldorf",,,,,,,
+,GLP-Bescheinigung,,,,,,,
+,"Bescheinigung
+Certificate",,,,,,,
+,"Hiermit wird bestatigt, dass die PrOfeinrichtung
+It
+is hereby certified that
+the test facility",,,,,,,
+,"in D-57392 SchmaUenberg, Auf dem Aberg 1
+in D-57392 Schmallenberg, Auf dem Aberg 1",,,,,,,
+,"(location, address)
+(Ort, Amchrift)",,,,,,,
+,"Of Fraunhofer Institut fur Molekularbiologie und
+Fraunhofer Institut
+fur Molekularbiologie und",,,,,,,
+,"Angewandte Oekologie (IME)
+Angewandte Oekologie (IME)",,,,,,,
+,"(company name)
+(Finm)",,,,,,,
+,"on 11 until
+13 November 2002
+vom 11. November-
+13. November 2002",,,,,,,
+,"(date)
+(Datum)",,,,,,,
+,"von der fiir die Uberwachung zustandigen Behorde
+was (were) inspected by the competent authority",,,,,,,
+,"iiber die Einhaltung der Grundsatze der Guten
+regarding compliance with the Principles of Good",,,,,,,
+,"Laborpraxis inspiziert worden ist.
+Laboratory Practice.",,,,,,,
+,"Es wird hiermit bestatigt, dass folgende Prufungen in
+It is hereby certified that following studies in this",,,,,,,
+,"dieser Prufeinrichtung nach den Grundsatzen der
+test
+facility are conducted in compliance with the",,,,,,,
+,"Guten Laborpraxis durchgefuhrt werden.
+Principles of Good Laboratory Practice.",,,,,,,
+Kategorie 1,category 1,,,,,,,
+Prufungen zur Bestimmung der physikalisch-,"physical-chemical
+testing",,,,,,,
+chemischen Eigenschaften und,,,,,,,,
+Gehaltsbestimmungen,,,,,,,,
+Kategorie 4,category 4,,,,,,,
+Okotoxikologische Prufungen zur Bestimmung,"environmental
+toxicity studies on aquatic and",,,,,,,
+der Auswirkungen auf aquatische und,terrestrial organisms,,,,,,,
+terrestrische Organismen,,,,,,,,
+Kategorie 5,category 5,,,,,,,
+"Priifungen zum Verhalten im Boden,
+im Wasser","studies on behaviour
+in water,
+soil and air;",,,,,,,
+und in der Luft; Prufungen zur Bioakkumulation,bioaccumulation,,,,,,,
+und zur Metabolisierung,,,,,,,,
+Kategorie 6,category 6,,,,,,,
+Prufungen zur Bestimmung von Ruckstanden,residue studies,,,,,,,
+Kategorie 7,category7,,,,,,,
+Priifungen zur Bestimmung der Auswirkungen,studies on effects on mesocosms and natural,,,,,,,
+auf Mesokosmen und naturliche Okosysteme,ecosystems,,,,,,,
+Kategorie 9,category 9,,,,,,,
+Modell- und Simulationsrechnungen fur das,mathematical modelling and simulation ofthe,,,,,,,
+Verhalten von Stoffen in der Umwelt,"environmental
+fate of chemicals",,,,,,,
